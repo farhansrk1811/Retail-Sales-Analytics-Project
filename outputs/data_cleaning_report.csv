@@ -1,0 +1,16 @@
+﻿Check,Count
+Original rows,9994
+Original columns,21
+Exact duplicate rows,0
+Missing or invalid Order ID,0
+Missing or invalid Order Date,0
+Missing or invalid Ship Date,0
+Missing or invalid Sales,0
+Missing or invalid Quantity,0
+Missing or invalid Discount,0
+Missing or invalid Profit,0
+Ship date before order date,0
+Negative sales,0
+Zero or negative quantity,0
+Discount outside 0-1,0
+Rows after exact duplicate removal,9994
